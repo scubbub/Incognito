@@ -1,7 +1,7 @@
 # Incognito
 Access the world wide web!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/scubbub/Incognito)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https:https://github.com/scubbub/Holy-Unblocker)
 [![Deploy](https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/replit.svg?raw)](https://repl.it/github/titaniumnetwork-dev/Incognito)
 
 ## Setup
