@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/Incognito.git"
+    "url": "https://github.com/scubbub/Holy-Unblocker"
   },
   "keywords": [
     "proxy"
@@ -17,9 +17,9 @@
   "author": "Titanium Network",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/Incognito/issues"
+    "url": "https://github.com/scubbub/Holy-Unblocker"
   },
-  "homepage": "https://github.com/titaniumnetwork-dev/Incognito#readme",
+  "homepage": "https://github.com/scubbub/Holy-Unblocker",
   "dependencies": {
     "corrosion": "^1.0.0",
     "fastify": "^3.21.0",
